@@ -6,8 +6,8 @@ from scipy.interpolate import griddata
 
 st.set_page_config(page_title="Peta Mikrozonasi", layout="wide", page_icon="🗺️")
 
-st.title("🗺️ Dashboard Pemetaan Spasial HVSR")
-st.write("Visualisasi peta kontur dinamis dengan fitur interaktif untuk mengganti lapisan peta dasar dan arah mata angin.")
+st.title("🗺️ PETA MIKROZONASI SEISMIK")
+st.write("Pemodelan 2D Parameter Dinamika Tanah (F0, A0, Kg, Tg) Berdasarkan Analisis Data HVSR.")
 st.markdown("---")
 
 st.sidebar.header("⚙️ Panel Unggah Data")
